@@ -8,7 +8,7 @@ $lungo();
 function ListPegawai() {
   global $koneksi;
   PegawaiScript();
-	echo"Master Pegawai";
+	echo"Master Pegawai Testing Git";
 	echo"<table border='1'>
   <tr>
     <td colspan='4'><input type=button name='Tambah' value='Tambah' onClick=\"javascript:PegawaiEdit(1, 0)\" /></td>
